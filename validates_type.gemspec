@@ -19,7 +19,7 @@ Gem::Specification.new do |s|
   s.required_ruby_version = '>= 3.1.0'
 
   s.add_dependency 'ruby-boolean', '~> 1.0'
-  s.add_dependency 'activemodel', '~> 7.0'
+  s.add_dependency 'activemodel', '~> 6.1.4.1'
 
   s.add_development_dependency 'bundler', '~> 2.0'
   s.add_development_dependency 'rake'
